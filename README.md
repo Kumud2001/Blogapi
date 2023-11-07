@@ -1,3 +1,3 @@
 # Blogapi
 This is the blog project
-Auther-Shradha Khapra
+Auther-Kumud Kumar
